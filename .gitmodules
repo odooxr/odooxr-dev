@@ -1,0 +1,12 @@
+[submodule "addons/odooxr-base"]
+	path = addons/odooxr-base
+	url = git@github.com:odooxr/odooxr-base.git
+[submodule "addons/odooxr-office"]
+	path = addons/odooxr-office
+	url = git@github.com:odooxr/odooxr-office.git
+[submodule "addons/odooxr-showroom"]
+	path = addons/odooxr-showroom
+	url = git@github.com:odooxr/odooxr-showroom.git
+[submodule "addons/odooxr-website"]
+	path = addons/odooxr-website
+	url = git@github.com:odooxr/odooxr-website.git
